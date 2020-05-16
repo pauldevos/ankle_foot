@@ -6,7 +6,7 @@
 - [Shoe Size and Width Chart](https://www.liveabout.com/mens-shoe-size-and-widths-chart-2988040)
 - My measurements:
   - 10.75" length
-  - 4" width -- Medium/Standard(D/M/R)
+  - 4" width -- Regular/Medium/Standard(D/M/R)
   - 9" arch circumference
   - size: 10.5 US Mens, possibly 11 US Men's if a little less tight
   
