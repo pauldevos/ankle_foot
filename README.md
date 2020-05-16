@@ -10,4 +10,7 @@
   - 9" arch circumference
   - size: 10.5 US Mens, possibly 11 US Men's if a little less tight
   
+### Basketball Shoes
+- [What to consider when buying your basketball shoes!](https://www.youtube.com/watch?v=D0VQ9PUvrmU)
+
 ### Stretching
